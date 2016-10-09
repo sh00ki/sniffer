@@ -20,7 +20,7 @@ System requirements
 
 Instructions
 ================================
-1. apply permissions: chmod +x ./isniff.sh
+1. apply permissions: chmod +x ./NAMEOFSCRIPT.sh
 2. the script must be run as root
 
 
